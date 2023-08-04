@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt="gif" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt="gif" width="500%" height="400">
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Md Saiful Hasan</h1>
 <h3 align="center">I am a Full Stack Web Developer and a DevOps enthusiast.</h3>
 
